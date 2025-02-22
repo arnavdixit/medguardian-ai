@@ -45,4 +45,4 @@ MedGuardian.AI leverages Streamlit to provide a dynamic, web-based chat interfac
 To run the MedGuardian.AI application locally, use the following command. This command will start the Streamlit server and open the chat interface in your default web browser. In the sidebar, enter the patient's UHR ID and click "Fetch Patient Info" to retrieve patient details. Then, use the main chat panel to ask questions. The chat interface is designed to pass both the user prompt and UHR to the response_generator function for generating responses.
 
 ```bash
-streamlit run app.py
+streamlit run app2.py
