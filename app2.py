@@ -23,8 +23,8 @@ def initial_query(name):
         )
         return query
 
-st.title("MedGuardian.ai Chatbot")
-st.markdown("Faster decision-making for healthcare professionals.")
+st.title("MedGuardian.ai")
+st.markdown("Faster and accurate decision making for medical professionals.")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -65,4 +65,4 @@ if prompt := st.chat_input("Enter your message"):
         with st.chat_message("assistant"):
             stream = handle_user_query(agent, prompt).response
             response = st.write(eval(stream)['response_to_user_query'])
-        st.session_state.messages.append({"role": "assistant", "content": stream})
+        st.session_state.messages.append({"role": "assistant", "content": eval(stream)['response_to_user_query']})
