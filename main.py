@@ -1,4 +1,5 @@
 from src.utils.chat_utils import start_conversation, handle_user_query
+from src.utils.history_io import get_patient_history_file
 # =============================================================================
 # Main execution flow
 # =============================================================================
@@ -22,7 +23,9 @@ if __name__ == "__main__":
     )
     
     # Start the conversation with the initial query
-    result = start_conversation(initial_query)
+    id = input("Enter the patient's ID: ")
+    history_file = get_patient_history_file(id)
+    result = start_conversation(history_file, initial_query)
     agent = result["agent"]
     response = result["response"]
     print("Agent:", response)

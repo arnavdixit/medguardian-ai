@@ -30,7 +30,7 @@ def handle_agent_response(agent: ReActAgent, response: str) -> None:
 # =============================================================================
 # Function: start_conversation
 # =============================================================================
-def start_conversation(initial_query: str):
+def start_conversation(history_file, initial_query: str):
     """
     Starts a conversation with the agent using the provided initial query.
     
@@ -48,7 +48,7 @@ def start_conversation(initial_query: str):
         initial_query (str): The initial query in plain text (formatted as valid JSON) to begin the conversation.
     """
         # Set up the history index using the 'history.txt' file
-    history_index = setup_history_index(history_file="rough/history.txt", persist_dir="./persisted_index/")
+    history_index = setup_history_index(history_file=history_file, persist_dir="./persisted_index/")
     
     # Create query engine tools based on the history index
     query_engine_tools = create_query_engine_tool(history_index)
