@@ -63,6 +63,6 @@ if prompt := st.chat_input("Enter your message"):
         st.error("Please load a patient record first by entering a Medical Reference Number.")
     else:
         with st.chat_message("assistant"):
-            stream = handle_user_query(agent, prompt)
-            response = st.write(stream['response_to_user_query'])
-        st.session_state.messages.append({"role": "assistant", "content": stream['response_to_user_query']})
+            stream = handle_user_query(agent, prompt).response
+            response = st.write(eval(stream)['response_to_user_query'])
+        st.session_state.messages.append({"role": "assistant", "content": stream})
