@@ -1,12 +1,13 @@
 import streamlit as st
-from src.utils.chat_utils import start_conversation
+from src.utils.chat_utils import start_conversation, handle_user_query
+from src.utils.history_io import get_patient_history_file
 
 st.title("Medical Chatbot")
 st.markdown("This app provides a ChatGPT-like chatbot interface along with a sidebar to fetch patient history.")
 
 number = "johnathan"
 initial_query = (
-    f"Please provide the patient's {number} full medical history, including details of previous diagnoses, treatment plans, surgical interventions, medication regimens, allergies, immunizations, and other critical clinical information in the following format only:\n"
+    f"Please provide the patient's full medical history, including details of previous diagnoses, treatment plans, surgical interventions, medication regimens, allergies, immunizations, and other critical clinical information in the following format only:\n"
         '{\n'
         '  "Name": "Provide the patient\'s full name",\n'
         '  "Age": "Provide the patient\'s age",\n'
@@ -26,6 +27,24 @@ with st.sidebar:
         medical_ref = st.text_input("Enter Medical Reference Number")
         submit_button = st.form_submit_button("Submit")
         if submit_button:
-            patient_history = start_conversation(medical_ref)
+            file_path = get_patient_history_file(medical_ref)
+            patient_history = start_conversation(file_path, initial_query)
             st.markdown("### Patient History")
-            st.text_area("Patient History", patient_history, height=300)
+            st.text_area("Patient History", patient_history["response"], height=300)
+            
+"""if "messages" not in st.session_state:
+    st.session_state.messages = []
+    
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
+        
+if prompt := st.chat_input("Enter your message"):
+    st.session_state.messages.append({"role": "user", "content": prompt})
+    with st.chat_message("user"):
+        st.markdown(prompt)
+        
+with st.chat_message("assistant"):
+        stream = handle_user_query
+        response = st.write_stream(stream)
+    st.session_state.messages.append({"role": "assistant", "content": response})"""
