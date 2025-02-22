@@ -1,6 +1,9 @@
 import streamlit as st
 from src.utils.chat_utils import start_conversation, handle_user_query
 from src.utils.history_io import get_patient_history_file
+from src.utils.base_functions import run_phx
+
+run_phx()
 
 st.title("Medical Chatbot")
 st.markdown("This app provides a ChatGPT-like chatbot interface along with a sidebar to fetch patient history.")
@@ -11,14 +14,13 @@ initial_query = (
         '{\n'
         '  "Name": "Provide the patient\'s full name",\n'
         '  "Age": "Provide the patient\'s age",\n'
-        '  "Gender": "Provide the patient\'s gender",\n'
-        '  "Allergies": "List all known allergies",\n'
-        '  "Current Medication": "List all current medications with dosage and frequency",\n'
-        '  "Past Treatments": "Provide details of past treatments with corresponding dates",\n'
-        '  "Past Surgeries": "Provide details of past surgeries and result with corresponding dates",\n'
-        '  "Existing Health Condition": "Detail any existing health conditions"\n'
         '}\n'
     )
+
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+if "agent" not in st.session_state:
+    st.session_state.agent = None
 
 # Sidebar: Patient lookup with dynamic input and submit button using a form
 with st.sidebar:
@@ -28,12 +30,12 @@ with st.sidebar:
         submit_button = st.form_submit_button("Submit")
         if submit_button:
             file_path = get_patient_history_file(medical_ref)
-            patient_history = start_conversation(file_path, initial_query)
+            result = start_conversation(file_path, initial_query)
+            st.session_state.agent = result["agent"]
+            response = result["response"]
             st.markdown("### Patient History")
-            st.text_area("Patient History", patient_history["response"], height=300)
-            
-"""if "messages" not in st.session_state:
-    st.session_state.messages = []
+            st.text_area("Patient History", response, height=300)
+        
     
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
@@ -44,7 +46,12 @@ if prompt := st.chat_input("Enter your message"):
     with st.chat_message("user"):
         st.markdown(prompt)
         
-with st.chat_message("assistant"):
-        stream = handle_user_query
-        response = st.write_stream(stream)
-    st.session_state.messages.append({"role": "assistant", "content": response})"""
+    # Retrieve agent from session state
+    agent = st.session_state.get("agent")
+    if agent is None:
+        st.error("Please load a patient record first by entering a Medical Reference Number.")
+    else:
+        with st.chat_message("assistant"):
+            stream = handle_user_query(agent, prompt)
+            response = st.write_stream(stream)
+        st.session_state.messages.append({"role": "assistant", "content": response})

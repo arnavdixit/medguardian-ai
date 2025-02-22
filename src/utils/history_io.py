@@ -1,8 +1,9 @@
 import os
 
 def get_patient_history_file(patient_id):
-    file_name = f"{patient_id}.txt"
-    file_path = os.path.join("data", "patient_history", file_name)
+    file_path = f"./data/patient_history/{patient_id}.txt"
+    #file_path = os.path.join("data", "patient_history", file_name)
+    print(file_path)
     return file_path
 
 def get_patient_name(file_path):
