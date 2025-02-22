@@ -1,4 +1,4 @@
-
+from src.utils.setup import setup_history_index, create_query_engine_tool, initialize_agent
 from llama_index.core.agent import ReActAgent
 
 
@@ -30,7 +30,7 @@ def handle_agent_response(agent: ReActAgent, response: str) -> None:
 # =============================================================================
 # Function: start_conversation
 # =============================================================================
-def start_conversation(agent: ReActAgent, initial_query: str) -> None:
+def start_conversation(initial_query: str):
     """
     Starts a conversation with the agent using the provided initial query.
     
@@ -47,26 +47,39 @@ def start_conversation(agent: ReActAgent, initial_query: str) -> None:
         agent (ReActAgent): The conversation agent.
         initial_query (str): The initial query in plain text (formatted as valid JSON) to begin the conversation.
     """
+        # Set up the history index using the 'history.txt' file
+    history_index = setup_history_index(history_file="rough/history.txt", persist_dir="./persisted_index/")
+    
+    # Create query engine tools based on the history index
+    query_engine_tools = create_query_engine_tool(history_index)
+    
+    # Initialize the ReActAgent with the query engine tools
+    agent = initialize_agent(query_engine_tools, max_turns=10, verbose=False)
     response = agent.chat(initial_query)
-    return response
+    return {"agent": agent, "response": response}
     # handle_agent_response(agent, response)
 
 # =============================================================================
 # Function: handle_user_query
 # =============================================================================
 
-def handle_user_query(agent: ReActAgent, user_query: str) -> None:
-
-# Define the prompt for the agent including the request for follow-up questions in a static JSON format
-    prompt = f"""
-    {user_query}
-    Please respond in the following JSON format:
-    {{
-        "response_to_user_query": "<agent response to the user query>",
-        "suggested_follow_up": ["question1", "question2", "question3"]
-    }}
-    """
-
+def handle_user_query(agent: ReActAgent, user_query: str, suggestions: bool = True) -> None:
+    # Define the prompt for the agent including the request for follow-up questions in a static JSON format
+    if suggestions:
+        prompt = f"""
+        {user_query}
+        Please respond in the following JSON format:
+        {{
+            "response_to_user_query": "<agent response to the user query>",
+            "suggested_follow_up": ["question1", "question2", "question3"]
+        }}"""
+    else:
+        prompt = f"""
+        {user_query}
+        Please respond in the following JSON format:
+        {{
+            "response_to_user_query": "<agent response to the user query>"
+        }}"""
     # Get the response from the agent
     response = agent.chat(prompt)
 

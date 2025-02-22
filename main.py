@@ -1,18 +1,8 @@
-from src.utils.setup import setup_history_index, create_query_engine_tool, initialize_agent
-from src.utils.chat_utils import start_conversation
+from src.utils.chat_utils import start_conversation, handle_user_query
 # =============================================================================
 # Main execution flow
 # =============================================================================
 if __name__ == "__main__":
-    # Set up the history index using the 'history.txt' file
-    history_index = setup_history_index(history_file="rough/history.txt", persist_dir="./persisted_index/")
-    
-    # Create query engine tools based on the history index
-    query_engine_tools = create_query_engine_tool(history_index)
-    
-    # Initialize the ReActAgent with the query engine tools
-    agent = initialize_agent(query_engine_tools, max_turns=10, verbose=True)
-
     # Fetch Name
     name = "Jhonathon Doe"
     
@@ -32,4 +22,12 @@ if __name__ == "__main__":
     )
     
     # Start the conversation with the initial query
-    start_conversation(agent, initial_query)
+    result = start_conversation(initial_query)
+    agent = result["agent"]
+    response = result["response"]
+    print("Agent:", response)
+    inp = input("User: ")
+    while inp != "exit":
+        response = handle_user_query(agent, inp).response
+        print("Agent:", response)
+        inp = input("User: ")
