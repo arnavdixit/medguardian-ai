@@ -1,0 +1,115 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Michael O’Connor
+Medical Record Number: 334455667
+Date of Birth: 05/10/1953 (Age: 70)
+Gender: Male
+Race: Caucasian (Irish American)
+Blood Type: B+
+Primary Language: English
+Marital Status: Married
+Occupation: Retired Mechanic
+Address: 321 Birch Road, Ruralton, USA
+Contact: (555) 678-9012
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Exacerbation of chronic shortness of breath and increased cough productive of white sputum.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Michael reports a two-month worsening of symptoms consistent with COPD, including dyspnea on exertion, a chronic productive cough, and occasional wheezing. He notes that activity levels have decreased and that he recently experienced increased fatigue.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Chronic Obstructive Pulmonary Disease (COPD) – Diagnosed in 2010; on bronchodilators.
+• Atrial Fibrillation – Managed with rate-control agents.
+• Osteoarthritis – Primarily affecting hips and knees.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Left Hip Replacement – 2016; complicated by postoperative infection requiring prolonged antibiotics.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Tiotropium inhaler daily
+• Albuterol inhaler as needed
+• Warfarin, dosage adjusted per INR
+• Ibuprofen 400 mg as needed for joint pain
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Iodine – Causes mild rash
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Father: Died from heart disease at 72.
+• Mother: History of arthritis.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Former heavy smoker (40 pack-years; quit 2010).
+• Alcohol: Occasional beer drinker.
+• Lives with spouse in a rural setting.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• Pneumococcal Vaccine in 2019
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Reports decreased exercise tolerance.
+Respiratory: Chronic cough, wheezing, sputum production.
+Musculoskeletal: Chronic joint pain limiting mobility.
+
+──────────────────────────────
+Physical Examination (Date: 11/20/2023):
+──────────────────────────────
+Vital Signs: BP 140/85 mmHg, HR 88 bpm (irregular), RR 20/min, Temp 98.8°F
+General: Elderly male, mildly dyspneic at rest.
+Respiratory: Diffuse wheezes and prolonged expiratory phase.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC: Within normal limits
+• INR: Therapeutic range
+• BMP: Unremarkable
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Chest X-Ray: Hyperinflated lung fields; no acute infiltrates.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for COPD exacerbation; pulmonary and cardiology teams involved to optimize medications and monitor atrial fibrillation.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. COPD Exacerbation – Increase bronchodilator frequency; consider corticosteroid taper.
+2. Atrial Fibrillation – Continue anticoagulation; monitor heart rate.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Pulmonology in 2 weeks
+• Cardiology in 1 month
+
+Physician’s Signature: Dr. Patrick O’Neil, MD
+Date: 11/20/2023

@@ -1,0 +1,114 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Lakshmi Patel
+Medical Record Number: 223344556
+Date of Birth: 02/14/1968 (Age: 55)
+Gender: Female
+Race: South Asian
+Blood Type: O+
+Primary Language: English/Hindi
+Marital Status: Married
+Occupation: Accountant
+Address: 456 Elm Street, Greenfield, USA
+Contact: (555) 789-0123
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Increased fatigue, weight gain, and cold intolerance over the past three months.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Lakshmi complains of generalized fatigue, mild weight gain despite no change in diet, and episodes of feeling unusually cold. She also reports dry skin and occasional constipation. These symptoms have progressively worsened over the past few months.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Hypothyroidism – Diagnosed in 2010; previously underwent partial thyroidectomy with complications.
+• Type 2 Diabetes Mellitus – Diagnosed in 2012; controlled with oral agents.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Thyroidectomy (partial) – 2010; complicated by transient hypocalcemia managed with calcium supplements.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Levothyroxine 75 mcg daily
+• Metformin 500 mg twice daily
+• Lisinopril 10 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Penicillin – Causes hives and swelling
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: Hypothyroidism and type 2 diabetes.
+• Father: History of cardiovascular disease.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Non-smoker.
+• Alcohol: Rare use.
+• Employed full-time; leads a predominantly sedentary lifestyle.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• Tdap in 2018
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Fatigue, weight gain.
+Endocrine: Cold intolerance, dry skin, constipation.
+Cardiovascular: No chest pain.
+
+──────────────────────────────
+Physical Examination (Date: 11/21/2023):
+──────────────────────────────
+Vital Signs: BP 130/78 mmHg, HR 70 bpm, RR 16/min, Temp 97.9°F
+General: Appears slightly lethargic, skin dry.
+HEENT: Thyroid gland not palpable post-surgery.
+Cardiovascular: Regular rate and rhythm.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• TSH: Elevated at 6.0 μIU/mL
+• Free T4: Low-normal
+• HbA1c: 6.8%
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Thyroid Ultrasound: Post-surgical changes; no residual nodules.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Monitored for thyroid function; endocrinology recommended adjusting levothyroxine dosage.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Hypothyroidism – Adjust thyroid hormone replacement.
+2. Diabetes – Continue current regimen and encourage lifestyle modifications.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Endocrinology in 4 weeks
+• Primary Care in 6 weeks
+
+Physician’s Signature: Dr. Sunita Mehta, MD
+Date: 11/21/2023
