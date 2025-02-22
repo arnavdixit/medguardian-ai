@@ -1,5 +1,5 @@
 # Ignore persist_index directory
-persist_index/
+persisted_index/
 
 # Ignore log files
 *.log
