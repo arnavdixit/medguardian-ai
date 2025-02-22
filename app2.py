@@ -1,21 +1,30 @@
 import streamlit as st
 from src.utils.chat_utils import start_conversation, handle_user_query
-from src.utils.history_io import get_patient_history_file
+from src.utils.history_io import get_patient_history_file, get_patient_name
 from src.utils.base_functions import run_phx
 
-run_phx()
 
-st.title("Medical Chatbot")
-st.markdown("This app provides a ChatGPT-like chatbot interface along with a sidebar to fetch patient history.")
+# Run Phoenix
+# run_phx()
 
-number = "johnathan"
-initial_query = (
-    f"Please provide the patient's full medical history, including details of previous diagnoses, treatment plans, surgical interventions, medication regimens, allergies, immunizations, and other critical clinical information in the following format only:\n"
-        '{\n'
-        '  "Name": "Provide the patient\'s full name",\n'
-        '  "Age": "Provide the patient\'s age",\n'
-        '}\n'
-    )
+def initial_query(name):
+        query = (
+        f"Please provide the patient's {name} full medical history, including details of previous diagnoses, treatment plans, surgical interventions, medication regimens, allergies, immunizations, and other critical clinical information in the following format only:\n"
+            '{\n'
+            '  "Name": "Provide the patient\'s full name",\n'
+            '  "Age": "Provide the patient\'s age",\n'
+            '  "Gender": "Provide the patient\'s gender",\n'
+            '  "Allergies": "List all known allergies",\n'
+            '  "Current Medication": "List all current medications with dosage and frequency",\n'
+            '  "Past Treatments": "Provide details of past treatments with corresponding dates",\n'
+            '  "Past Surgeries": "Provide details of past surgeries and result with corresponding dates",\n'
+            '  "Existing Health Condition": "Detail any existing health conditions"\n'
+            '}\n'
+        )
+        return query
+
+st.title("MedGuardian.ai Chatbot")
+st.markdown("Faster decision-making for healthcare professionals.")
 
 if "messages" not in st.session_state:
     st.session_state.messages = []
@@ -30,6 +39,8 @@ with st.sidebar:
         submit_button = st.form_submit_button("Submit")
         if submit_button:
             file_path = get_patient_history_file(medical_ref)
+            name = get_patient_name(file_path)
+            initial_query = initial_query(name)
             result = start_conversation(file_path, initial_query)
             st.session_state.agent = result["agent"]
             response = result["response"]
@@ -53,5 +64,5 @@ if prompt := st.chat_input("Enter your message"):
     else:
         with st.chat_message("assistant"):
             stream = handle_user_query(agent, prompt)
-            response = st.write_stream(stream)
-        st.session_state.messages.append({"role": "assistant", "content": response})
+            response = st.write(stream['response_to_user_query'])
+        st.session_state.messages.append({"role": "assistant", "content": stream['response_to_user_query']})
