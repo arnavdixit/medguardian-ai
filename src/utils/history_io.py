@@ -5,12 +5,16 @@ def get_patient_history_file(patient_id):
     file_path = os.path.join("data", "patient_history", file_name)
     return file_path
 
-def get_patient_name(patient_id):
-    file_path = get_patient_history_file(patient_id)
+def get_patient_name(file_path):
     if os.path.exists(file_path):
         with open(file_path, "r") as file:
-            patient_data = file.read()
-        return patient_data.split("\n")[0]
+            while True:
+                line = file.readline()
+                if line.startswith("Name"):
+                    name = line.split(":")[1].strip()
+                    return name
+                if not line:
+                    break
     return None
 # # Example usage
 # patient_id = 123
