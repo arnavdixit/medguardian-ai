@@ -1,0 +1,16 @@
+# Ignore persist_index directory
+persisted_index/
+
+# Ignore log files
+*.log
+
+# Ignore environment variables file
+.env
+
+
+# Ignore build directories
+dist/
+build/
+
+# Ignore Python cache directories
+__pycache__/

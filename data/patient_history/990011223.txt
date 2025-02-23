@@ -1,0 +1,116 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Samuel Johnson
+Medical Record Number: 990011223
+Date of Birth: 06/20/1980 (Age: 45)
+Gender: Male
+Race: African American
+Blood Type: B-
+Primary Language: English
+Marital Status: Divorced
+Occupation: Bus Driver
+Address: 78 Maple Street, Urban Heights, USA
+Contact: (555) 123-0987
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Acute onset of severe pain in the left abdomen and difficulty breathing.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Samuel presents with a sudden onset of left upper quadrant pain radiating to the back, accompanied by shortness of breath and fatigue. He has a known history of sickle cell disease with prior vaso-occlusive crises. He also reports a previous stroke two years ago with residual mild weakness on the right side.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Sickle Cell Disease – Chronic hemolytic anemia with periodic pain crises.
+• Asthma – Intermittent, managed with inhalers.
+• History of Stroke – Occurred in 2021; residual mild right-sided weakness.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Splenectomy – 1995; complicated by post-surgical infection requiring extended hospitalization.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Hydroxyurea 500 mg daily
+• Albuterol Inhaler as needed
+• Low-dose Aspirin 81 mg daily
+• Lisinopril 10 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Sulfa Drugs – Causes rash and gastrointestinal upset
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: Sickle cell trait; history of anemia.
+• Father: History of hypertension.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Denies use.
+• Alcohol: Occasional beer.
+• Employed full-time; lives alone; relies on community support during crises.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• Pneumococcal Vaccine post-splenectomy
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Fatigue and episodic pain crises.
+Cardiovascular: No chest pain apart from current episode.
+Respiratory: Occasional wheezing; current mild dyspnea.
+
+──────────────────────────────
+Physical Examination (Date: 11/25/2023):
+──────────────────────────────
+Vital Signs: BP 130/82 mmHg, HR 92 bpm, RR 20/min, Temp 99.1°F
+General: Moderate distress due to pain.
+Abdominal: Tenderness in the left upper quadrant; no rebound.
+Respiratory: Clear lung fields.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC: Anemia with baseline low hemoglobin
+• Reticulocyte count: Elevated
+• Basic Metabolic Panel: Within acceptable limits
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Abdominal Ultrasound: Splenic bed absent; mild hepatomegaly noted.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for vaso-occlusive pain management and evaluation of abdominal pain; hematology consulted to optimize sickle cell management.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Sickle Cell Crisis – Aggressive pain management, hydration, and oxygen therapy.
+2. Asthma – Continue current inhaler regimen; monitor respiratory status.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Hematology in 2 weeks
+• Primary Care in 4 weeks
+
+Physician’s Signature: Dr. Marcus Allen, MD
+Date: 11/25/2023

@@ -1,0 +1,112 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Aisha Khan
+Medical Record Number: 443322110
+Date of Birth: 09/25/1988 (Age: 35)
+Gender: Female
+Race: Middle Eastern
+Blood Type: AB+
+Primary Language: English/Arabic
+Marital Status: Single
+Occupation: Graphic Designer
+Address: 55 Crescent Avenue, Downtown, USA
+Contact: (555) 567-8901
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Persistent joint pain and skin rash with episodes of low-grade fever.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Aisha reports a six-month history of intermittent joint stiffness involving her hands and knees, accompanied by a photosensitive rash on her cheeks. She also experiences fatigue and occasional fever. Symptoms flare during sun exposure and improve with rest.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Systemic Lupus Erythematosus (SLE) – Diagnosed 2 years ago; managed with hydroxychloroquine.
+• Mild Anemia – Chronic, related to autoimmune condition.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Laparoscopic Cholecystectomy – 2012; postoperative course notable for transient bile leak managed conservatively.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Hydroxychloroquine 200 mg twice daily
+• Low-dose Prednisone 5 mg daily
+• NSAIDs as needed for joint pain
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Sulfa Drugs – Hives and facial swelling
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: History of rheumatoid arthritis.
+• Sister: Diagnosed with SLE.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Non-smoker.
+• Alcohol: Occasional wine drinker.
+• Lives alone; works from home with flexible hours.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Fatigue and low-grade fevers.
+Musculoskeletal: Joint pain, morning stiffness.
+Dermatologic: Malar rash noted with sun exposure.
+
+──────────────────────────────
+Physical Examination (Date: 11/19/2023):
+──────────────────────────────
+Vital Signs: BP 120/70 mmHg, HR 76 bpm, RR 16/min, Temp 99.0°F
+General: Appears well but fatigued.
+Skin: Erythematous rash over cheeks; no other lesions.
+Musculoskeletal: Mild swelling in proximal interphalangeal joints.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC: Mild normocytic anemia
+• ANA: Positive with high titer
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• X-ray of hands: Early joint space narrowing.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Evaluated for lupus flare; rheumatology recommended adjustment in immunosuppressive therapy and regular monitoring.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. SLE – Titrate immunosuppressants; advise sun protection.
+2. Anemia – Monitor hemoglobin levels; dietary counseling.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Rheumatology in 1 month
+• Primary Care in 4 weeks
+
+Physician’s Signature: Dr. Nadia Rahman, MD
+Date: 11/19/2023

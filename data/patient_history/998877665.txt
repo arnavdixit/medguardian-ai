@@ -1,0 +1,115 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Chen Wei
+Medical Record Number: 998877665
+Date of Birth: 12/02/1973 (Age: 50)
+Gender: Male
+Race: Asian
+Blood Type: O-
+Primary Language: Mandarin/English
+Marital Status: Married
+Occupation: Software Engineer
+Address: 1020 Willow Lane, Tech Park, USA
+Contact: (555) 456-7890
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Increased fatigue and polyuria with blurred vision.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Chen describes a gradual onset of fatigue, increased thirst, and frequent urination over the past four months. He has noticed blurred vision intermittently and a recent weight gain. No recent infections reported.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Type 2 Diabetes Mellitus – Diagnosed in 2015; on oral hypoglycemics.
+• Hypertension – Diagnosed in 2010; controlled with medication.
+• Hyperlipidemia – Managed with statins.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Percutaneous Coronary Intervention – 2019; stent placement for a single vessel lesion.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Metformin 1000 mg twice daily
+• Lisinopril 10 mg daily
+• Simvastatin 40 mg daily
+• Aspirin 81 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• No known drug allergies (NKDA)
+• Mild seafood sensitivity (non-anaphylactic)
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Father: Died of myocardial infarction at 62; history of diabetes.
+• Mother: Alive, 75; hypertension and hyperlipidemia.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Non-smoker.
+• Alcohol: Rare use; social occasions only.
+• Occupation: Works long hours at a tech firm; sedentary lifestyle.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Reports persistent fatigue, weight gain.
+Endocrine: Polyuria and polydipsia.
+Vision: Intermittent blurring.
+
+──────────────────────────────
+Physical Examination (Date: 11/18/2023):
+──────────────────────────────
+Vital Signs: BP 135/85 mmHg, HR 82 bpm, RR 16/min, Temp 98.2°F
+General: Overweight, alert.
+Cardiovascular: Regular rhythm; no murmurs.
+Eyes: Mild decreased visual acuity; fundoscopic exam deferred.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• HbA1c: 8.5%
+• Fasting Glucose: 150 mg/dL
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• ECG: Normal sinus rhythm.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for diabetic management optimization; endocrinology consulted regarding medication adjustment and dietary counseling.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Diabetes – Intensify glycemic control; consider additional hypoglycemic agents.
+2. Hypertension – Continue current regimen; monitor closely.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Endocrinology in 3 weeks
+• Primary Care in 1 month
+
+Physician’s Signature: Dr. Ming Zhao, MD
+Date: 11/18/2023

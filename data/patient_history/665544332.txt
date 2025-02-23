@@ -1,0 +1,113 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Robert Lee
+Medical Record Number: 665544332
+Date of Birth: 08/30/1945 (Age: 80)
+Gender: Male
+Race: Asian
+Blood Type: O+
+Primary Language: English
+Marital Status: Widower
+Occupation: Retired Engineer
+Address: 15 Sunflower Court, Elderwood, USA
+Contact: (555) 901-2345
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Worsening tremors, bradykinesia, and increasing memory lapses.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Robert presents with a two-year history of progressive motor slowing, tremors at rest, and mild cognitive decline. He also reports occasional falls and difficulty with fine motor tasks. His symptoms have gradually limited his daily activities.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Parkinson’s Disease – Diagnosed in 2015; managed with levodopa-carbidopa.
+• Congestive Heart Failure – Diagnosed in 2010; on diuretics and ACE inhibitors.
+• Dementia – Early-stage; under evaluation.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Pacemaker Implantation – 2018; complicated by lead dislodgement requiring revision surgery.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Levodopa-Carbidopa 100/25 mg three times daily
+• Furosemide 20 mg daily
+• Lisinopril 10 mg daily
+• Donepezil 5 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Sulfa Drugs – Rash and pruritus
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: Alzheimer’s disease.
+• Father: Died of myocardial infarction at 70.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Never smoked.
+• Alcohol: Minimal consumption.
+• Lives alone with occasional home health support.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• Pneumococcal Vaccine in 2020
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Increasing fatigue and decreased mobility.
+Neurological: Resting tremor, bradykinesia, and mild memory loss.
+
+──────────────────────────────
+Physical Examination (Date: 11/23/2023):
+──────────────────────────────
+Vital Signs: BP 135/80 mmHg, HR 68 bpm, RR 16/min, Temp 98.1°F
+Neurological: Mask-like facies, resting tremor; cogwheel rigidity noted.
+Cardiovascular: Regular rhythm; no murmurs.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC, BMP: Within acceptable limits
+• ECG: Pacemaker functioning appropriately
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Brain MRI: Chronic microvascular changes consistent with age.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for evaluation of Parkinsonian symptom progression; neurology and cardiology services coordinated care.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Parkinson’s Disease – Optimize dopaminergic therapy.
+2. Dementia – Cognitive assessment; adjust supportive care.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Neurology in 1 month
+• Cardiology in 6 weeks
+
+Physician’s Signature: Dr. Samuel Kim, MD
+Date: 11/23/2023

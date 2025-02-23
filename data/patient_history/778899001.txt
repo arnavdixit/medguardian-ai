@@ -1,0 +1,112 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Alex Morgan
+Medical Record Number: 778899001
+Date of Birth: 04/05/1993 (Age: 30)
+Gender: Non-binary
+Race: Mixed (African American/White)
+Blood Type: AB-
+Primary Language: English
+Marital Status: Single
+Occupation: Freelance Writer
+Address: 900 River Road, City Center, USA
+Contact: (555) 890-1234
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Frequent anxiety episodes and recurrent asthma exacerbations.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Alex reports a one-year history of increased anxiety, which seems to worsen with asthma attacks. They experience shortness of breath, chest tightness, and occasional panic episodes. Their asthma, previously well-controlled, has become more frequent with triggers including seasonal allergens.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Asthma – Diagnosed in childhood; intermittent exacerbations.
+• Generalized Anxiety Disorder – Diagnosed 2 years ago; managed with counseling and medication.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Minor Dermatologic Procedure – 2015; removal of a benign mole with no complications.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Albuterol Inhaler as needed
+• Budesonide Inhaler daily
+• Sertraline 50 mg daily
+• As-needed lorazepam for acute anxiety
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Latex – Causes contact dermatitis
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: History of asthma.
+• Father: Diagnosed with anxiety.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Non-smoker.
+• Alcohol: Social drinker on weekends.
+• Lives alone; practices yoga and mindfulness intermittently.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Occasional fatigue, no fever.
+Psychiatric: Anxiety with panic episodes.
+Respiratory: Intermittent wheezing and shortness of breath.
+
+──────────────────────────────
+Physical Examination (Date: 11/22/2023):
+──────────────────────────────
+Vital Signs: BP 118/76 mmHg, HR 76 bpm, RR 18/min, Temp 98.3°F
+General: Alert, appears anxious but cooperative.
+Respiratory: Clear lung fields between episodes.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC: Within normal limits
+• Basic Metabolic Panel: Unremarkable
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Chest X-Ray: Normal
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Assessed in the ER during an anxiety-induced asthma flare; recommended optimization of inhaler technique and referral to mental health services.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Asthma – Review trigger avoidance; adjust maintenance therapy.
+2. Anxiety – Increase counseling frequency; consider medication adjustment.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Pulmonology in 3 weeks
+• Mental Health in 2 weeks
+
+Physician’s Signature: Dr. Robin Lee, MD
+Date: 11/22/2023

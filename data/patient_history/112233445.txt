@@ -1,0 +1,120 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: William T. Johnson
+Medical Record Number: 112233445
+Date of Birth: 03/15/1958 (Age: 65)
+Gender: Male
+Race: African American
+Blood Type: A+
+Primary Language: English
+Marital Status: Widowed
+Occupation: Retired Teacher
+Address: 245 Oak Street, Midtown, USA
+Contact: (555) 234-5678
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Progressive shortness of breath and intermittent chest discomfort on exertion.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+William presents with a three-week history of mild to moderate chest tightness accompanied by shortness of breath during daily walks. He also reports occasional palpitations and fatigue. There is no associated syncope or diaphoresis. His symptoms have gradually worsened despite adherence to his medication regimen.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Hypertension – Diagnosed in 2000; controlled with ACE inhibitors.
+• Type 2 Diabetes Mellitus – Diagnosed in 2008; managed with metformin and diet.
+• Hyperlipidemia – Longstanding; on statin therapy.
+• Coronary Artery Disease – History of stable angina managed medically.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Right Knee Replacement – 2015; uncomplicated recovery.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Lisinopril 10 mg daily
+• Metformin 500 mg twice daily
+• Atorvastatin 20 mg daily
+• Aspirin 81 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Penicillin – Rash
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Father: Deceased at 68 (heart attack, hypertension).
+• Mother: Age 88, history of stroke and diabetes.
+• Siblings: One brother with hyperlipidemia.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Former smoker (15 pack-years; quit 2005).
+• Alcohol: Occasional, 1–2 drinks per week.
+• Occupation: Retired; active in local community tutoring.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Annual Influenza Vaccine
+• Pneumococcal Vaccine (PPSV23) in 2021
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Mild fatigue, no fever.
+Cardiovascular: Intermittent chest tightness, palpitations.
+Respiratory: Exertional dyspnea; clear lungs on auscultation.
+
+──────────────────────────────
+Physical Examination (Date: 11/16/2023):
+──────────────────────────────
+Vital Signs: BP 150/88 mmHg, HR 78 bpm, RR 18/min, Temp 98.6°F
+General: Well-nourished, alert, in no acute distress.
+Cardiovascular: Regular rate and rhythm; a soft systolic murmur noted.
+Respiratory: Lungs clear bilaterally.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC within normal limits
+• Basic Metabolic Panel unremarkable
+• HbA1c: 7.2%
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Chest X-Ray: Normal cardiac silhouette, clear lung fields.
+• Stress Test: Mild ST depressions with exercise.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for evaluation of worsening angina. Cardiology consultation recommended adjustment of beta-blocker dosing and further outpatient monitoring.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Coronary Artery Disease – Optimize antianginal therapy.
+2. Hypertension – Continue current regimen; monitor BP.
+3. Diabetes – Reinforce lifestyle changes and glycemic control.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Cardiology in 2 weeks
+• Primary Care in 4 weeks
+
+Physician’s Signature: Dr. Angela Roberts, MD
+Date: 11/16/2023

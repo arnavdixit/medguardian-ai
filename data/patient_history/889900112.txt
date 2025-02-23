@@ -1,0 +1,114 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Fatima Al-Sayed
+Medical Record Number: 889900112
+Date of Birth: 11/11/1958 (Age: 65)
+Gender: Female
+Race: Arab
+Blood Type: A-
+Primary Language: Arabic/English
+Marital Status: Married
+Occupation: Retired School Principal
+Address: 202 Desert Rose Blvd, Metropolitan, USA
+Contact: (555) 012-3456
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Persistent joint pain with swelling and worsening kidney function.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Fatima reports a one-year history of worsening joint pain and stiffness, predominantly in the hands and knees. Additionally, she has noted decreased urine output and mild swelling in her lower extremities. There is also a history of episodic joint swelling that has become more frequent.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Rheumatoid Arthritis – Diagnosed in 2005; treated with DMARDs.
+• Chronic Kidney Disease (Stage 3) – Progressive decline in renal function.
+• Hypertension – Longstanding, on multiple agents.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Hysterectomy – 2010; complicated by postoperative hemorrhage requiring transfusion.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Methotrexate 15 mg weekly
+• Lisinopril 20 mg daily
+• Furosemide 20 mg daily
+• Prednisone 5 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• NSAIDs – Severe gastric upset and rash
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: Diabetes and hypertension.
+• Father: Died of renal failure.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Non-smoker.
+• Alcohol: Does not consume.
+• Retired; lives with spouse; active in community events.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Fatigue and mild weight loss.
+Musculoskeletal: Joint pain and swelling.
+Renal: Oliguria and peripheral edema.
+
+──────────────────────────────
+Physical Examination (Date: 11/24/2023):
+──────────────────────────────
+Vital Signs: BP 145/90 mmHg, HR 82 bpm, RR 18/min, Temp 98.5°F
+General: Overweight, in mild distress due to joint pain.
+Musculoskeletal: Diffuse joint tenderness; mild synovitis in hands.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• Creatinine: 1.8 mg/dL, BUN: 30 mg/dL
+• Inflammatory markers: Elevated ESR and CRP
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Hand X-Ray: Joint space narrowing and erosions.
+• Renal Ultrasound: Reduced cortical thickness.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for stabilization of RA flare and management of CKD; nephrology and rheumatology consulted.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Rheumatoid Arthritis – Adjust DMARD therapy and monitor inflammatory markers.
+2. Chronic Kidney Disease – Optimize antihypertensive regimen and monitor renal function.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Rheumatology in 2 weeks
+• Nephrology in 1 month
+
+Physician’s Signature: Dr. Leila Hassan, MD
+Date: 11/24/2023

@@ -1,0 +1,116 @@
+──────────────────────────────
+Patient Information:
+──────────────────────────────
+Name: Maria L. Rodriguez
+Medical Record Number: 556677889
+Date of Birth: 07/08/1981 (Age: 42)
+Gender: Female
+Race: Hispanic
+Blood Type: B-
+Primary Language: Spanish/English
+Marital Status: Married
+Occupation: Administrative Assistant
+Address: 789 Palm Drive, Sunnyvale, USA
+Contact: (555) 345-6789
+
+──────────────────────────────
+Chief Complaint:
+──────────────────────────────
+Severe episodic shortness of breath and wheezing, particularly at night.
+
+──────────────────────────────
+History of Present Illness (HPI):
+──────────────────────────────
+Maria reports a six-month history of worsening asthma with nocturnal awakenings and occasional chest tightness. She notes increased use of her rescue inhaler and a recent upper respiratory infection that exacerbated her symptoms. No fever or cough is present at this time.
+
+──────────────────────────────
+Past Medical History (PMH):
+──────────────────────────────
+• Asthma – Diagnosed in childhood; moderately persistent.
+• Migraines – Chronic, with occasional aura.
+• Allergic Rhinitis – Seasonal, managed with antihistamines.
+
+──────────────────────────────
+Past Surgical History (PSH):
+──────────────────────────────
+• Appendectomy – 1999; complicated by postoperative infection requiring IV antibiotics.
+
+──────────────────────────────
+Medications:
+──────────────────────────────
+• Albuterol Inhaler as needed
+• Fluticasone/Salmeterol inhaler daily
+• Sumatriptan 50 mg as needed for migraines
+• Loratadine 10 mg daily
+
+──────────────────────────────
+Allergies:
+──────────────────────────────
+• Latex – Causes skin rash
+
+──────────────────────────────
+Family History:
+──────────────────────────────
+• Mother: Asthma and migraines.
+• Father: Hypertension.
+• Sister: History of eczema.
+
+──────────────────────────────
+Social History:
+──────────────────────────────
+• Tobacco: Non-smoker.
+• Alcohol: Occasional social drinker.
+• Lives with spouse and two children in an urban setting.
+
+──────────────────────────────
+Immunizations:
+──────────────────────────────
+• Influenza Vaccine annually
+• Tdap booster in 2020
+• COVID-19: Fully vaccinated with booster in 2022
+
+──────────────────────────────
+Review of Systems:
+──────────────────────────────
+General: Occasional fatigue.
+Respiratory: Frequent wheezing and shortness of breath; no productive cough.
+Neurological: History of headaches, no recent change.
+
+──────────────────────────────
+Physical Examination (Date: 11/17/2023):
+──────────────────────────────
+Vital Signs: BP 125/80 mmHg, HR 88 bpm, RR 20/min, Temp 98.4°F
+General: Alert, mild respiratory distress during exam.
+HEENT: Mild nasal congestion noted.
+Respiratory: Diffuse wheezing on expiration; no crackles.
+
+──────────────────────────────
+Laboratory Results:
+──────────────────────────────
+• CBC: Mild eosinophilia
+• Pulmonary Function Test: Reduced FEV1 consistent with moderate asthma
+
+──────────────────────────────
+Imaging and Diagnostic Studies:
+──────────────────────────────
+• Chest X-Ray: Unremarkable.
+
+──────────────────────────────
+Hospital Course and Consultations:
+──────────────────────────────
+Admitted for asthma exacerbation; initiated IV corticosteroids and monitored respiratory status.
+
+──────────────────────────────
+Assessment and Plan:
+──────────────────────────────
+1. Asthma – Increase inhaled corticosteroids; optimize rescue medication use.
+2. Migraines – Continue current therapy; advise trigger avoidance.
+
+──────────────────────────────
+Follow-Up Appointments:
+──────────────────────────────
+• Pulmonology in 1 month
+• Primary Care in 2 weeks
+
+Physician’s Signature: Dr. Elena Morales, MD
+Date: 11/17/2023
